@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - box
+  - sphere
+  - moving
+  - enemy
+  - friend
+  - device
+  - inventory
+  - vehicle
+  - SurfaceToClimb
+  - SurfaceToGrab
+  - FX
+  - Hitbox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - gravityObjects
+  - Armor Surface
+  - turrets
+  - player
+  - radar
+  - VisionSensor
+  - Player
+  - FootTrigger
+  - Scanner
+  - vehicle
+  - inventory
+  - npc
+  - weapons
+  - device
+  - Terrain
+  - Point&Click
+  - Dynamic Split Screen
+  - Transparent Mesh
+  - Ragdoll Trigger
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
